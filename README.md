@@ -1,6 +1,6 @@
 <div align="Left">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80" height="90"/>
- </div> Hi There
+ </div> <h3> Hi There!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="100"/>
@@ -12,7 +12,7 @@
   
 
     
-  <h3> My name is Idan Goldstein
-    and here is my:<h3>
+  </div>About me:</br>  I'm a chef 😃
+   
       
   [Portfolio](https://github.com/idangold1212/Portfolio)
