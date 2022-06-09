@@ -11,7 +11,7 @@ Here some information about me:
 </div>
 <div id="badges", align="left">
    Please reach me in: <a href= "https://www.linkedin.com/in/idan-goldstein">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="85"/>
   </a>
   
   Here is my <strong> [Portfolio](https://github.com/idangold1212/Portfolio)
